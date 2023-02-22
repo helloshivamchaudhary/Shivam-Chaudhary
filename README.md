@@ -3,7 +3,7 @@
 
 # Shivam-Chaudhary
 <h1 align="center">Hi 👋, I'm shivam chaudhary</h1>
-<h3 align="center">Full Stack Web Development 📌| python👨‍💻| freelance🤓 | learning Android dev|</h3>
+<h3 align="center">Full Stack Web Development 📌| python👨‍💻| freelance🤓 | learning Android  dev|</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz/fullscreen">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloshivamchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="helloshivamchaudhary" /> </p>
 
